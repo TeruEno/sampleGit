@@ -1,3 +1,5 @@
 # sampleGit
 
-Hello Workd!
+Hello World!
+
+ターミナルでGitを使いこなす
